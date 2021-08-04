@@ -1,0 +1,2 @@
+MALFORMED ADD,Philadelphia,Los Angeles,28.441460362,
+MALFORMED UNKNOWN,something,else
